@@ -1,3 +1,4 @@
+My name is Ismar and I am a python backend developer with over a year of programming experience at the moment.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Savada_tsu) 
 
